@@ -2,7 +2,7 @@
 Recipe Tracking App for HW12 UMN Coding Bootcamp
 
 ## LIVE DEMO
-![Recipe Tracking App](https://recipe-tracking-app-oqde.onrender.com)
+[Recipe Tracking App](https://recipe-tracking-app-oqde.onrender.com)
 
 ## Table of Contents
 
